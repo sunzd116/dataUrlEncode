@@ -1,0 +1,27 @@
+dist
+dev
+test-html
+node_modules
+.cache-loader/
+.cache
+dev.zip
+manifest
+*dist_*.ejs
+page_static_files_dev_sheet.ejs
+css/sprites
+core-sheet/css/img/images/toolbar_sprite.png
+core-sheet/css/img/images/toolbar_sprite.png
+core-sheet/-tempcss/img/images/toolbar_sprite@2x.png
+core-sheet/css/img/images/toolbar_sprite@2x.png
+.DS_Store
+.idea
+public
+.vscode/
+spread-sheet/run_on_server/server.js
+# spread-sheet/*/**/DEAD*
+spread-sheet/*.log
+spread-sheet/test/alloyexcel/dev/
+package-lock
+core-sheet/css/sprites/toolbar_sprite.css
+script/ci-config.js
+zi*
